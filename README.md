@@ -16,7 +16,7 @@ Widget with ICO ROI in USD
 Widget with ICO ROI in ETH
 <iframe src="https://tokensrecord.com/w/eth_roi.html" style="border:none;" scrolling="no" width="400" height="500"></iframe>
 
-Widghet with ICO video reveiews
+Widget with ICO video reveiews
 <iframe src="https://tokensrecord.com/w/video_reviews.html" style="border:none;" scrolling="no" width="400" height="500"></iframe>
 
 Custom settings here https://tokensrecord.com/widgets
